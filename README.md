@@ -1,3 +1,5 @@
+*Note: This project has some special sauce so I can not make the code public at this time.*
+
 ## Project Overview ##
 
 ### 10,000 unique and attractive characters programatically.
