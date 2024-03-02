@@ -2,7 +2,7 @@
 
 ## Project Overview ##
 
-### 10,000 unique and attractive characters programatically.
+### 10,000 unique and attractive characters.
 
 ![alt text](https://github.com/Nice-Take/metaFuzzies/blob/master/sample_images/Fuzzies_Group_100.jpg)
 *This is only 100, but they would be a little too small with 10,000 stuffed into this image.*
